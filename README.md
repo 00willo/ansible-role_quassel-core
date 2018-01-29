@@ -1,4 +1,8 @@
-# ansible-role_quassel-coreRole Name
+[![Travis](https://img.shields.io/travis/00willo/ansible-role_quassel-core.svg)](https://travis-ci.org/00willo/ansible-role_quassel-core)
+[![Ansible Galaxy](https://img.shields.io/badge/ansible--galaxy-00willo.quassel-core-blue.svg)](https://galaxy.ansible.com/00willo/quassel-core/)
+
+# ansible-role_quassel-core
+Role Name
 =========
 
 A brief description of the role goes here.
