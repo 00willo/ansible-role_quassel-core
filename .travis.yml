@@ -6,6 +6,8 @@ install:
   - pip install ansible
 
 script:
+  - ansible --version
+  - export ANSIBLE_ROLES_PATH="../"
   # Check the roles syntax.
   - ansible-playbook -i tests/inventory tests/test.yml --syntax-check
 
